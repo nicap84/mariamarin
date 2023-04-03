@@ -1,0 +1,25 @@
+.container-fluid {
+    background-color: #6E4E73;
+  }
+  div {
+    padding: 10px;
+  }
+  div.title {
+    background-color: #6E4E73;
+    color: white;
+  }
+  div.info {
+    background-color: #E6E6E6;
+    text-align: left;
+  }
+  a {
+    color: #6E4E73;
+  }
+  span {
+    font-weight: bold;
+  }
+  div.divisor{
+    border-bottom-style: dotted;
+    border-bottom-width: 2px;
+    border-bottom-color: #6E4E73;
+  }
